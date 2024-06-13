@@ -81,8 +81,8 @@ a:hover {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 24px;
-  width: 30px;
+  height: 27px;
+  width: 33px;
   cursor: pointer;
 }
 
